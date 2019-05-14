@@ -11,8 +11,8 @@
 Upon start, this app will pull pull up a home page, and when the b
   
 ### Links and Resources
-* [repo](https://github.com/js401-ferris-trainor-apiserver/apiserver/pull/2)
-* [Deployed Site](https://api-auth-server-401javascript.herokuapp.com/)
+* [repo](https://github.com/js401-ferris-trainor-apiserver/two-faced)
+* [Deployed Site](https://expo.io/@etrainor/two-faced)
 
 ### Setup
 #### To Run Server Locally
@@ -26,7 +26,7 @@ Upon start, this app will pull pull up a home page, and when the b
 
 #### Running the app on a phone 
 
-* Navigate to the [Deployed Site](https://api-auth-server-401javascript.herokuapp.com/)
+* Navigate to the [Deployed Site](https://expo.io/@etrainor/two-faced)
 * Scan the QR code there
 * Phone will need to register movement before it will register the first face
 * Smile or frown, whatever you like, and you will see a response.
