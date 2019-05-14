@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Facial Recognition Application - Are you smiling??",
+    "githubUrl": "https://github.com/js401-ferris-trainor-apiserver/two-faced"
   }
 }
